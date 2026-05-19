@@ -5,7 +5,6 @@ const About = () => {
   const stats = [
     { icon: Shield, label: 'Años en Cyberseguridad', value: '6+' },
     { icon: Code2, label: 'Proyectos Completados', value: '50+' },
-    { icon: Users, label: 'Estudiantes Formados', value: '100+' },
     { icon: Award, label: 'Certificaciones', value: '10+' },
   ];
 
