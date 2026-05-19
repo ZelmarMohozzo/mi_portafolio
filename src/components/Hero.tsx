@@ -95,7 +95,7 @@ const Hero = () => {
                 <div className="absolute inset-0 bg-gradient-to-r from-emerald-400 to-blue-400 rounded-full blur-2xl opacity-20 animate-pulse"></div>
                 <div className="relative w-80 h-80 rounded-full overflow-hidden border-4 border-emerald-400/30 shadow-2xl">
                   <img
-                    src="https://zelmarmohozzo.netlify.app/"
+                    src="https://avatars.githubusercontent.com/u/47833054?v=4"
                     alt="Zelmar Mohozzo"
                     className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
                   />
